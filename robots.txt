@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thearchitect-max.github.io/DOMINUS-Platform-Website/sitemap.xml
